@@ -13,7 +13,7 @@ int main()
     Triangle triangle;
     vector<Triangle> listaTriangle;
 
-    cout << "Bienvenidos, ingrese el valor de la base" << endl;
+    cout << "Bienvenidos, por favor ingrese el valor de la base" << endl;
     cin >> ValorBase;
     triangle.setBase(ValorBase);
 
